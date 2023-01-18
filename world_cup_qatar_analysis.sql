@@ -104,7 +104,7 @@ ORDER BY
 
 
 
---What is the occupancy rate for each stadium throughout the throughout the tournament 
+--What is the occupancy rate for each stadium throughout the tournament 
 
 SELECT 
     s.name as stadium, 
@@ -118,7 +118,7 @@ ORDER BY
     avg_attendance_percentage DESC;	
 
 
---What is the average attendance for each game throughout the tournament?
+--What is the average attendance for each team throughout the tournament?
 	
 WITH teams_attendance AS (
     SELECT team, SUM(attendance) as sum_attendance, COUNT(*) as number_of_games
