@@ -1,0 +1,65 @@
+date,time,home,away,attendance,stadium,id
+2022-11-20,19:00:00,Qatar,Ecuador,67372,Al Bayt Stadium,1
+2022-11-21,16:00:00,England,Iran,45334,Khalifa International Stadium,2
+2022-11-21,19:00:00,Senegal,Netherlands,41721,Al Thumama Stadium,3
+2022-11-21,22:00:00,USA,Wales,43418,Ahmed bin Ali Stadium,4
+2022-11-22,13:00:00,Argentina,Saudi Arabia,88012,Lusail Iconic Stadium,5
+2022-11-22,16:00:00,Denmark,Tunisia,42925,Education City Stadium,6
+2022-11-22,19:00:00,Mexico,Poland,39369,Stadium 974,7
+2022-11-22,22:00:00,France,Australia,40875,Al Janoub Stadium,8
+2022-11-23,13:00:00,Morocco,Croatia,59407,Al Bayt Stadium,9
+2022-11-23,16:00:00,Germany,Japan,42608,Khalifa International Stadium,10
+2022-11-23,22:00:00,Belgium,Canada,40432,Ahmed bin Ali Stadium,12
+2022-11-24,13:00:00,Switzerland,Cameroon,39089,Al Janoub Stadium,13
+2022-11-24,16:00:00,Uruguay,Korea Republic,41663,Education City Stadium,14
+2022-11-24,19:00:00,Portugal,Ghana,42662,Stadium 974,15
+2022-11-24,22:00:00,Brazil,Serbia,88103,Lusail Iconic Stadium,16
+2022-11-25,13:00:00,Wales,Iran,40875,Ahmed bin Ali Stadium,17
+2022-11-25,16:00:00,Qatar,Senegal,41797,Al Thumama Stadium,18
+2022-11-25,19:00:00,Netherlands,Ecuador,44833,Khalifa International Stadium,19
+2022-11-25,22:00:00,England,USA,68463,Al Bayt Stadium,20
+2022-11-26,13:00:00,Tunisia,Australia,41823,Al Janoub Stadium,21
+2022-11-26,16:00:00,Poland,Saudi Arabia,44259,Education City Stadium,22
+2022-11-26,19:00:00,France,Denmark,42860,Stadium 974,23
+2022-11-26,22:00:00,Argentina,Mexico,88966,Lusail Iconic Stadium,24
+2022-11-27,13:00:00,Japan,Costa Rica,41479,Ahmed bin Ali Stadium,25
+2022-11-27,16:00:00,Belgium,Morocco,43738,Al Thumama Stadium,26
+2022-11-27,19:00:00,Croatia,Canada,44374,Khalifa International Stadium,27
+2022-11-27,22:00:00,Spain,Germany,68895,Al Bayt Stadium,28
+2022-11-28,13:00:00,Cameroon,Serbia,39789,Al Janoub Stadium,29
+2022-11-28,16:00:00,Korea Republic,Ghana,43983,Education City Stadium,30
+2022-11-28,19:00:00,Brazil,Switzerland,43649,Stadium 974,31
+2022-11-29,18:00:00,Ecuador,Senegal,44569,Khalifa International Stadium,33
+2022-11-29,18:00:00,Netherlands,Qatar,66784,Al Bayt Stadium,34
+2022-11-29,22:00:00,Iran,USA,42127,Al Thumama Stadium,35
+2022-11-29,22:00:00,Wales,England,44297,Ahmed bin Ali Stadium,36
+2022-11-30,18:00:00,Australia,Denmark,41232,Al Janoub Stadium,37
+2022-11-30,18:00:00,Tunisia,France,43627,Education City Stadium,38
+2022-11-30,22:00:00,Saudi Arabia,Mexico,84985,Lusail Iconic Stadium,39
+2022-11-30,22:00:00,Poland,Argentina,44089,Stadium 974,40
+2022-12-01,18:00:00,Canada,Morocco,43102,Al Thumama Stadium,41
+2022-12-01,18:00:00,Croatia,Belgium,43984,Ahmed bin Ali Stadium,42
+2022-12-01,22:00:00,Costa Rica,Germany,67054,Al Bayt Stadium,43
+2022-12-01,22:00:00,Japan,Spain,44851,Khalifa International Stadium,44
+2022-12-02,18:00:00,Korea Republic,Portugal,44097,Education City Stadium,45
+2022-12-02,18:00:00,Ghana,Uruguay,43443,Al Janoub Stadium,46
+2022-12-02,22:00:00,Cameroon,Brazil,85986,Lusail Iconic Stadium,47
+2022-12-02,22:00:00,Serbia,Switzerland,41378,Stadium 974,48
+2022-12-03,18:00:00,Netherlands,USA,44846,Khalifa International Stadium,49
+2022-12-03,22:00:00,Argentina,Australia,45032,Ahmed bin Ali Stadium,50
+2022-12-04,18:00:00,France,Poland,40989,Al Thumama Stadium (Neutral Site),51
+2022-12-04,22:00:00,England,Senegal,65985,Al Bayt Stadium,52
+2022-12-05,18:00:00,Japan,Croatia,42523,Al Janoub Stadium,53
+2022-12-05,22:00:00,Brazil,Korea Republic,43847,Stadium 974,54
+2022-12-06,18:00:00,Morocco,Spain,44667,Education City Stadium,55
+2022-12-06,22:00:00,Portugal,Switzerland,83720,Lusail Iconic Stadium,56
+2022-12-09,18:00:00,Croatia,Brazil,43893,Education City Stadium,57
+2022-12-09,22:00:00,Netherlands,Argentina,88235,Lusail Iconic Stadium,58
+2022-12-10,18:00:00,Morocco,Portugal,44198,Al Thumama Stadium,59
+2022-12-10,22:00:00,England,France,68895,Al Bayt Stadium,60
+2022-12-13,22:00:00,Argentina,Croatia,88966,Lusail Iconic Stadium,61
+2022-12-14,22:00:00,France,Morocco,68294,Al Bayt Stadium,62
+2022-12-17,18:00:00,Croatia,Morocco,44137,Khalifa International Stadium,63
+2022-12-18,18:00:00,Argentina,France,88966,Lusail Iconic Stadium,64
+2022-11-28,22:00:00,Portugal,Uruguay,88668,Lusail Iconic Stadium,32
+2022-11-23,19:00:00,Spain,Costa Rica,40013,Al Thumama Stadium,11
